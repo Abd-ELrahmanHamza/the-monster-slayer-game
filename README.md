@@ -2,8 +2,8 @@
 </div>
 
 <div align="center">
-    <h1 align='center'>⚡️<i>Monster Slayer</i>⚡️</h1>
-    <p> Simple vuejs game </p>
+    <h1 align='center'><i>Monster Slayer</i></h1>
+    <p> Simple game built with vue </p>
 </div>
 
 <h2 style="display:inline">📝 Table of Contents</h2>
